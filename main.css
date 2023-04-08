@@ -8,12 +8,8 @@
 }
 
 #backgroundBody {
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center center;
-    background: url(background.jpg);
-    background-size: cover;
-    background-color:#464646;
+    background: rgb(238,174,202);
+    background: linear-gradient(90deg, rgba(238,174,202,1) 25%, rgba(169,148,233,1) 72%);
 }
 
 
