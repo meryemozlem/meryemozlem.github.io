@@ -4,3 +4,5 @@ Benimle iletişime geçmek isteyeceğiniz sosyal kaynaklar için oluşturmuş ol
 <br>
 
 https://meryemozlem.github.io/
+<br>
+!Site güncellenmektedir.
