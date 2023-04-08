@@ -6,3 +6,4 @@ Benimle iletişime geçmek isteyeceğiniz sosyal kaynaklar için oluşturmuş ol
 https://meryemozlem.github.io/
 <br>
 !Site güncellenmektedir.
+https://bento.me/meryemozlem
