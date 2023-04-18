@@ -30,3 +30,7 @@
 .fa:hover {
     opacity: 0.7;
 }
+
+<a href="https://www.kaggle.com/mozlemaydoan" class="fa fa-kaggle" target="_blank" rel="noopener noreferrer">
+    <img src="kaggle_logo.jpg" alt="Kaggle Icon">
+</a>
